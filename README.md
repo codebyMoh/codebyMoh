@@ -1,4 +1,13 @@
 # About Mohit's Contribution
+
+Mohit leads Product at Quranium, shaping the vision behind its quantum-secure, AI-native infrastructure layer. As the first team member to join after the founders, he helped lay Quranium’s foundations, driven by his belief that the future demands radical innovation built with precision, passion, and purpose.
+
+ A long-time builder in the Web3 space since 2015, Mohit previously developed fastest on-chain social trading systems on Solana and contributed to Ethereum and open-source blockchain communities. He is the Founder and CTO of Tanthetaa, one of India’s earliest blockchain service studios, leading 250 + Engineering team and serves on the advisory board of several tech startups. 
+
+With a deep technical skillset spanning AI, robotics, post-quantum cryptography, and cybersecurity, Mohit has spoken at major tech events across the US, Africa, Australia, and beyond. A true believer in decentralized futures and disruptive ideas, he continues to champion scalable, quantum-proof infrastructure that enables autonomous systems and secure innovation on a global scale.
+
+Mohit being one man army, has consistently demonstrated his ability to lead, innovate, and deliver in the dynamic fields of blockchain and software development.
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mohit-kapadiya-0110b7232/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@mohitkapadiya) 
 

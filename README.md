@@ -6,7 +6,7 @@ A long-time builder in the Web3 space since 2015, Mohit previously developed the
 
 With a deep technical skillset spanning AI, robotics, post-quantum cryptography, and cybersecurity, Mohit has spoken at major tech events across the US, Africa, Australia, and beyond. A true believer in decentralized futures and disruptive ideas, he continues to champion scalable, quantum-proof infrastructure that enables autonomous systems and secure innovation on a global scale.
 
-Mohit, being a one-man army, has consistently demonstrated his ability to lead, innovate, and deliver in the dynamic fields of blockchain and software development.
+Mohit, being a one-man army, has consistently demonstrated his ability to lead, innovate, and deliver complex Tech architecture with simplest UX in the dynamic fields of blockchain and software development.
 
 
 ## 🌐 Socials:
